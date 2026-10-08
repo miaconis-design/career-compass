@@ -1,0 +1,6 @@
+{
+  "name": "CareerCompass",
+  "description": "A modern, minimalist Job Search Copilot and Application Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
